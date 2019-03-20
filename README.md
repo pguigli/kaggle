@@ -1,4 +1,6 @@
-# Playing around with Kaggle's datasets
+# Playing around with Kaggle's datasets  
+https://www.kaggle.com/pguigli
+
 ---
 
 **Titanic Dataset**

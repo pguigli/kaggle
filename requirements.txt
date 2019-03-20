@@ -1,0 +1,12 @@
+python==3.7
+ipython==7.3.0
+jupyter==1.0.0
+matplotlib==3.0.3
+notebook==5.7.4
+numpy==1.16.2
+pandas==0.24.1
+scikit-learn==0.20.3
+scipy==1.2.1
+seaborn==0.9.0
+treeinterpreter==0.2.2
+waterfallcharts==3.8
